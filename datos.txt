@@ -1,0 +1,8 @@
+50 bolas principales
+12 bolas secundarias
+parametros bolas: ID, aparaciones y fecha que aparecieron
+conteo de sorteos
+muestra de apariciones de cada bola segun seleccion de fechas
+generacion de estadisticas segun la seleccion de fechas
+los datos de las bolas se guardan en base de datos
+interfaz para introducir los datos
